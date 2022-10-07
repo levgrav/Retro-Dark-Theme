@@ -8,6 +8,14 @@
     "type": "git",
     "url": "https://github.com/levgrav/Retro-Dark-Theme"
   },
+  "keywords": [
+    "Retro",
+    "Retro dark",
+    "dark",
+    "green",
+    "theme",
+    "WaveFunctionCollapse"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
