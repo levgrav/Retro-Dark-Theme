@@ -4,6 +4,10 @@
   "description": "Retro, green on black mostly. light blues as well.",
   "version": "0.0.1",
   "publisher": "WaveFunctionCollapse",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/levgrav/Retro-Dark-Theme"
+  },
   "engines": {
     "vscode": "^1.72.0"
   },
